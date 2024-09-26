@@ -1,1 +1,1 @@
-omg help 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<Arran202>/<Arran>/<sem>.yml?branch=<main>)
